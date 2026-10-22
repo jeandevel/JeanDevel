@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Jean 👋
 
-<!--
-**jeandevel/JeanDevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador autodidacta en formación, con interés en la programación y el desarrollo de videojuegos. Aprendo construyendo cosas, equivocándome y mejorando poco a poco.
 
-Here are some ideas to get you started:
+## 🛠️ Lo que estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python:** fundamentos, lógica de programación y pequeños scripts.
+- **Godot:** desarrollo de videojuegos, diseño de juegos y lógica de juego.
+
+## 🎯 Mis objetivos
+
+- Terminar y publicar mis primeros proyectos en este perfil.
+- Mejorar mi lógica de programación con práctica constante.
+- Crear un juego pequeño con Godot de principio a fin.
+- Conseguir mi primera oportunidad como desarrollador.
+
+## 📂 Proyectos
+
+Próximamente: aquí iré publicando mis ejercicios y mis primeros juegos.
+
+## 📫 Contacto
+
+- GitHub: [@jeandevel](https://github.com/jeandevel)
