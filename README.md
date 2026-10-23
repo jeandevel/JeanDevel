@@ -16,7 +16,7 @@ Desarrollador autodidacta en formación, con interés en la programación y el d
 
 ## 📂 Proyectos
 
-Próximamente: aquí iré publicando mis ejercicios y mis primeros juegos.
+[¡New!]: I Love U Heroine es mi nuevo proyecto, un juego de plataformas.
 
 ## 📫 Contacto
 
