@@ -17,9 +17,9 @@ Desarrollador autodidacta en formación, con interés en la programación y el d
 
 ## 📂 Proyectos
 
-[¡New!]: I Love U Heroine es mi nuevo proyecto, un juego de plataformas.
+[1]: I Love U Heroine es un proyecto en fase de desarrollo que tiene como utilidad aprender sobre el desarrollo y diseño de videojuegos.
 
 ## 📫 Contacto
 
 - GitHub: [@jeandevel](https://github.com/jeandevel)
-- Correo: [@email](jeansomarriba9@gmail.com)
+- Correo: jeansomarriba9@gmail.com
