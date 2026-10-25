@@ -1,12 +1,19 @@
 # ¡Hola! Soy Jean 👋
 
-Desarrollador autodidacta en formación, con interés en la programación y el desarrollo de videojuegos. Aprendo construyendo cosas, equivocándome y mejorando poco a poco.
+Desarrollador autodidacta en formación, con interés en el desarrollo web y los videojuegos. Aprendo construyendo cosas, equivocándome y mejorando poco a poco.
 
 ## 🛠️ Lo que estoy aprendiendo
 
-- **Python:** fundamentos y lógica de programación.
-- **Godot:** desarrollo de videojuegos.
-- **HTML, CSS y JS:** Desarrollo de paginas Web, frontend.
+- **HTML y CSS:** estructura de páginas, estilos y diseño responsive.
+- **JavaScript:** lógica y comportamiento en el navegador.
+- **Git y GitHub:** control de versiones y publicación de proyectos.
+- **Python:** fundamentos, lógica de programación y pequeños scripts.
+- **Godot:** desarrollo de videojuegos, diseño y lógica de juego.
+
+## 📂 Proyectos
+
+- 📄 **[CV en HTML](https://github.com/jeandevel/cv-html)**: CV ficticio para practicar HTML y CSS. *(en construcción)*
+- 🎮 **I Love U Heroine**: juego de plataformas hecho con Godot. *(en desarrollo, por ahora en privado)*
 
 ## 🎯 Mis objetivos
 
@@ -15,11 +22,7 @@ Desarrollador autodidacta en formación, con interés en la programación y el d
 - Crear un juego pequeño con Godot de principio a fin.
 - Conseguir mi primera oportunidad como desarrollador.
 
-## 📂 Proyectos
-
-[1]: I Love U Heroine es un proyecto en fase de desarrollo que tiene como utilidad aprender sobre el desarrollo y diseño de videojuegos.
-
 ## 📫 Contacto
 
 - GitHub: [@jeandevel](https://github.com/jeandevel)
-- Correo: jeansomarriba9@gmail.com
+<!-- Agrega aquí un correo creado solo para esto, o tu LinkedIn, si quieres que te escriban. -->
