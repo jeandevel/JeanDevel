@@ -4,8 +4,9 @@ Desarrollador autodidacta en formación, con interés en la programación y el d
 
 ## 🛠️ Lo que estoy aprendiendo
 
-- **Python:** fundamentos, lógica de programación y pequeños scripts.
-- **Godot:** desarrollo de videojuegos, diseño de juegos y lógica de juego.
+- **Python:** fundamentos y lógica de programación.
+- **Godot:** desarrollo de videojuegos.
+- **HTML, CSS y JS:** Desarrollo de paginas Web, frontend.
 
 ## 🎯 Mis objetivos
 
@@ -21,3 +22,4 @@ Desarrollador autodidacta en formación, con interés en la programación y el d
 ## 📫 Contacto
 
 - GitHub: [@jeandevel](https://github.com/jeandevel)
+- Correo: [@email](jeansomarriba9@gmail.com)
