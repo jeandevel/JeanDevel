@@ -25,4 +25,5 @@ Desarrollador autodidacta en formación, con interés en el desarrollo web y los
 ## 📫 Contacto
 
 - GitHub: [@jeandevel](https://github.com/jeandevel)
+- 🌐 Sitio web: [jeandevel.github.io](https://jeandevel.github.io)
 <!-- Agrega aquí un correo creado solo para esto, o tu LinkedIn, si quieres que te escriban. -->
