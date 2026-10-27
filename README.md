@@ -11,7 +11,7 @@ Desarrollador autodidacta en formación, con interés en el desarrollo web y los
 - **Godot:** desarrollo de videojuegos, diseño y lógica de juego.
 
 ## 📂 Proyectos
-
+- 👨‍💻️ **[Pagina Personal](https://github.com/jeandevel/jeandevel.github.io)**: Mi pagina personal *(En constante desarrolo)*
 - 📄 **[CV en HTML](https://github.com/jeandevel/cv-html)**: CV ficticio para practicar HTML y CSS. *(en construcción)*
 - 🎮 **I Love U Heroine**: juego de plataformas hecho con Godot. *(en desarrollo, por ahora en privado)*
 
