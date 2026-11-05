@@ -11,10 +11,10 @@ Desarrollador autodidacta en formación, con interés en el desarrollo web y los
 - **Godot:** desarrollo de videojuegos, diseño y lógica de juego.
 
 ## 📂 Proyectos
-- 💻️ **[DashBoard](https://github.com/jeandevel/personal-dashboard)**: Mi dashboard personal (en desarrollo, por ahora en privado)
-- 👨‍💻️ **[Pagina Personal](https://github.com/jeandevel/jeandevel.github.io)**: Mi pagina personal *(En constante desarrolo)*
-- 📄 **[CV en HTML](https://github.com/jeandevel/cv-html)**: CV ficticio para practicar HTML y CSS. *(en construcción)*
-- 🎮 **I Love U Heroine**: juego de plataformas hecho con Godot. *(en desarrollo, por ahora en privado)*
+- 💻️ **[DashBoard](https://github.com/jeandevel/personal-dashboard)**: Mi dashboard personal (Pausado)
+- 👨‍💻️ **[Pagina de novelas](https://github.com/jeandevel/jeandevel.github.io)**: Una pagina donde puedes subir tus escritos *(En constante desarrolo)*
+- 📄 **[CV en HTML](https://github.com/jeandevel/cv-html)**: CV ficticio para practicar HTML y CSS. *(Terminado)*
+- 🎮 **I Love U Heroine**: juego de plataformas hecho con Godot. *(Pausado)*
 
 ## 🎯 Mis objetivos
 
@@ -26,5 +26,4 @@ Desarrollador autodidacta en formación, con interés en el desarrollo web y los
 ## 📫 Contacto
 
 - GitHub: [@jeandevel](https://github.com/jeandevel)
-- 🌐 Sitio web: [jeandevel.github.io](https://jeandevel.github.io)
-<!-- Agrega aquí un correo creado solo para esto, o tu LinkedIn, si quieres que te escriban. -->
+- 🌐 Sitio web: [Nyx](https://jeandevel.github.io)
