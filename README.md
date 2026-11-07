@@ -13,9 +13,8 @@
 
 | Proyecto | Tipo | Enlaces Rápidos |
 | :--- | :--- | :--- |
-| **🌐 Nyx Project** | Plataforma Web Principal | [Ver Sitio Web](https://jeandevel.github.io) • [Repositorio](https://github.com) |
-| **📚 NyxLib** | Biblioteca del Catálogo | [Ver Código Fuente](https://github.com) |
-| **📱 Profile Card** | Tarjeta de Presentación | [Ver Demo en Vivo](https://github.io) • [Repositorio](https://github.com) |
+| **📚 NyxLib** | Biblioteca del Catálogo | [Ver Código Fuente](https://github.com/jeandevel/NyxLib)
+| **📱 Profile Card** | Tarjeta de Presentación | [Ver Demo en Vivo](https://jeandevel.github.io/profile-card) • [Repositorio](https://github.com/jeandevel/profile-card) |
 
 ---
 
