@@ -1,29 +1,35 @@
-# ¡Hola! Soy Jean 👋
+# ¡Hola! Soy Jean Somarriba 👋
 
-Desarrollador autodidacta en formación, con interés en el desarrollo web y los videojuegos. Aprendo construyendo cosas, equivocándome y mejorando poco a poco.
+<p align="left">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Costa Rica">
+</p>
 
-## 🛠️ Lo que estoy aprendiendo
+> Desarrollador Web Frontend en formación, enfocado en maquetación limpia, diseño responsivo y optimización de interfaces. Actualmente construyendo proyectos independientes y aprendiendo de forma autodidacta a través de freeCodeCamp.
 
-- **HTML y CSS:** estructura de páginas, estilos y diseño responsive.
-- **JavaScript:** lógica y comportamiento en el navegador.
-- **Git y GitHub:** control de versiones y publicación de proyectos.
-- **Python:** fundamentos, lógica de programación y pequeños scripts.
-- **Godot:** desarrollo de videojuegos, diseño y lógica de juego.
+---
 
-## 📂 Proyectos
-- 💻️ **[DashBoard](https://github.com/jeandevel/personal-dashboard)**: Mi dashboard personal (Pausado)
-- 👨‍💻️ **[Pagina de novelas](https://github.com/jeandevel/jeandevel.github.io)**: Una pagina donde puedes subir tus escritos *(En constante desarrolo)*
-- 📄 **[CV en HTML](https://github.com/jeandevel/cv-html)**: CV ficticio para practicar HTML y CSS. *(Terminado)*
-- 🎮 **I Love U Heroine**: juego de plataformas hecho con Godot. *(Pausado)*
+### 🚀 Proyectos Destacados
 
-## 🎯 Mis objetivos
+| Proyecto | Descripción | Estado / Enlace |
+| :--- | :--- | :--- |
+| **🌐 Nyx Project** | Mi plataforma web principal en producción independiente. | [Visitar Sitio](https://github.io) |
+| **📚 NyxLib** | Catálogo y biblioteca digital de novelas para el ecosistema Nyx. | [Ver Código](https://github.com) |
+| **📱 Profile Card** | Tarjeta de presentación digital interactiva construida con HTML y CSS. | [Ver Demo](https://github.io/profile-card) |
 
-- Terminar y publicar mis primeros proyectos en este perfil.
-- Mejorar mi lógica de programación con práctica constante.
-- Crear un juego pequeño con Godot de principio a fin.
-- Conseguir mi primera oportunidad como desarrollador.
+---
 
-## 📫 Contacto
+### 🛠️ Tecnologías en Aprendizaje Continuo
 
-- GitHub: [@jeandevel](https://github.com/jeandevel)
-- 🌐 Sitio web: [Nyx](https://jeandevel.github.io)
+<p align="left">
+  <img src="https://shields.io" alt="HTML5">
+  <img src="https://shields.io" alt="CSS3">
+  <img src="https://shields.io" alt="Git">
+  <img src="https://shields.io" alt="Linux">
+</p>
+
+---
+
+<p align="center">
+  📫 ¡Conéctate conmigo a través de mi <a href="https://github.io/profile-card">Tarjeta de Contacto</a>!
+</p>
