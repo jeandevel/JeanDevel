@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jean Somarriba 👋
+# ¡Hola! Soy Jean 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/devbox-%E2%80%B9-280459?logo=devbox" alt="Status">
