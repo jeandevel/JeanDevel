@@ -1,35 +1,35 @@
 # ¡Hola! Soy Jean Somarriba 👋
 
 <p align="left">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Costa Rica">
+  <img src="https://img.shields.io/badge/devbox-%E2%80%B9-280459?logo=devbox" alt="Status">
+  <img src="https://img.shields.io/badge/github-%E2%80%B9-181717?logo=github" alt="GitHub">
 </p>
 
-> Desarrollador Web Frontend en formación, enfocado en maquetación limpia, diseño responsivo y optimización de interfaces. Actualmente construyendo proyectos independientes y aprendiendo de forma autodidacta a través de freeCodeCamp.
+> Desarrollador Frontend en formación independiente. Enfocado en la maquetación web limpia, la semántica estructurada y el diseño adaptable (Mobile-First). Estudiando activamente a través de freeCodeCamp y construyendo proyectos locales.
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos del Ecosistema
 
-| Proyecto | Descripción | Estado / Enlace |
+| Proyecto | Tipo | Enlaces Rápidos |
 | :--- | :--- | :--- |
-| **🌐 Nyx Project** | Mi plataforma web principal en producción independiente. | [Visitar Sitio](https://github.io) |
-| **📚 NyxLib** | Catálogo y biblioteca digital de novelas para el ecosistema Nyx. | [Ver Código](https://github.com) |
-| **📱 Profile Card** | Tarjeta de presentación digital interactiva construida con HTML y CSS. | [Ver Demo](https://github.io/profile-card) |
+| **🌐 Nyx Project** | Plataforma Web Principal | [Ver Sitio Web](https://jeandevel.github.io) • [Repositorio](https://github.com) |
+| **📚 NyxLib** | Biblioteca del Catálogo | [Ver Código Fuente](https://github.com) |
+| **📱 Profile Card** | Tarjeta de Presentación | [Ver Demo en Vivo](https://github.io) • [Repositorio](https://github.com) |
 
 ---
 
 ### 🛠️ Tecnologías en Aprendizaje Continuo
 
 <p align="left">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="CSS3">
-  <img src="https://shields.io" alt="Git">
-  <img src="https://shields.io" alt="Linux">
+  <img src="https://img.shields.io/badge/html5-‹-E34F26?logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/css-‹-663399?logo=css" alt="CSS3">
+  <img src="https://img.shields.io/badge/git-%E2%80%B9-F03C2E?logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/archlinux-%E2%80%B9-1793D1?logo=archlinux" alt="Arch Linux">
 </p>
 
 ---
 
 <p align="center">
-  📫 ¡Conéctate conmigo a través de mi <a href="https://github.io/profile-card">Tarjeta de Contacto</a>!
+  📫 ¿Quieres contactarme? Visita mi <a href="https://jeandevel.github.io/profile-card">Tarjeta de Contacto Oficial</a>
 </p>
