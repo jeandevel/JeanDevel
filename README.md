@@ -13,8 +13,8 @@
 
 | Proyecto | Tipo | Enlaces Rápidos |
 | :--- | :--- | :--- |
-| **📚 NyxLib** | Biblioteca del Catálogo | [Ver Código Fuente](https://github.com/jeandevel/NyxLib) • [Repositorio](https://jeandevel.github.io/NyxLib)
-| **📱 Profile Card** | Tarjeta de Presentación | [Ver Demo en Vivo](https://jeandevel.github.io/profile-card) • [Repositorio](https://github.com/jeandevel/profile-card) |
+| **📚 NyxLib** | Biblioteca del Catálogo | [Nyx](https://jeandevel.github.io/NyxLib) • [Repositorio](https://github.com/jeandevel/NyxLib)
+| **📱 Profile Card** | Tarjeta de Presentación | [Card](https://jeandevel.github.io/profile-card) • [Repositorio](https://github.com/jeandevel/profile-card) |
 
 ---
 
